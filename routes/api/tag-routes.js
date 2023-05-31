@@ -14,7 +14,7 @@ router.get('/', (req, res) => {
       }
     ]
   })
-  .then((results) => res.status.(200).json(results))
+  .then((results) => res.status(200).json(results))
 });
 
 router.get('/:id', (req, res) => {
