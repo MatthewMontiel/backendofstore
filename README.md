@@ -23,7 +23,6 @@ A E-commerce back end that allows a user to see all products in their inventory 
 * source schema
 * npm run seed
 * npm start
-* 
 ## Usage
 Using insomnia the user will be able to get, post, or view inventory. 
 ## Contact-me
